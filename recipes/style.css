@@ -1,0 +1,35 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 150%;
+}
+
+p, li{
+    font-size: 24px;
+}
+
+h1{
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+    font-size: 50px;
+}
+
+h1#pink{
+    background-color: #f081a3;
+}
+
+h1#orange{
+    background-color: orange;
+    color: black;
+}
+
+h1#brown{
+    background-color: saddlebrown;
+}
+
+h3{
+    font-size: 35px;
+}
+
+
+
